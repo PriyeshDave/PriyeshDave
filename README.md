@@ -2,7 +2,7 @@
 ## Data Science Enthusiast
 ![Data Science Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am Priyesh from India, and I am a Data Science Enthusiast. A clear understanding of Machine Learning and Statistics and training in Programming. Motivated to learn, grow and excel in Artificial Intelligence Industry.
+I am Priyesh from India, a Data Science Enthusiast. I really enjoy learning new languages and having a clear understanding of Machine Learning and Statistics and training in Programming. Motivated to learn, grow and excel in Artificial Intelligence Industry.
 
 Skills: Java / Python / Machine Learning / Statistics / Data Analysis
 
