@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Priyesh Dave
-## Data Science Enthusiast
 ![Data Science Enthusiast](https://github.com/PriyeshDave/PriyeshDave/blob/main/1639460581637.jpg)
+
+<h1 align="center">Hi there 👋, I'm Priyesh Dave!</h1>
 
 I am Priyesh from India, a Data Science Enthusiast. I really enjoy learning new languages and having a clear understanding of Machine Learning and Statistics and training in Programming. Motivated to learn, grow and excel in Artificial Intelligence Industry.
 
