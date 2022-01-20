@@ -1,5 +1,5 @@
-## Hi there 👋, Priyesh Dave
-### Data Science Enthusiast
+# Hi there 👋, I'm Priyesh Dave
+## Data Science Enthusiast
 ![Data Science Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am Priyesh from India, and I am a Data Science Enthusiast. A clear understanding of Machine Learning and Statistics and training in Programming. Motivated to learn, grow and excel in Artificial Intelligence Industry.
