@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/PriyeshDave/PriyeshDave/blob/main/1639460581637.jpg" width="350" height="300" />
+<img align="center" src="https://github.com/PriyeshDave/PriyeshDave/blob/main/1639460581637.jpg"/>
 
 <h1 align="center">Hi there 👋, I'm Priyesh Dave!</h1>
 
