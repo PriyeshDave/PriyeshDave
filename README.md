@@ -14,6 +14,6 @@ Skills: Java / Python / Machine Learning / Statistics / Data Analysis
 - 😄 Pronouns: He / Him 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/priyeshdave21//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/priyeshdave21//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PriyeshDave6)  
 
