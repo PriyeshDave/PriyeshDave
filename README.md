@@ -14,7 +14,8 @@
 <br>
 
 ## Skills and Experience
-Java / Python / Machine Learning / Statistics / Data Analysis
+* Experienced and dedicated Systems Engineer at Tata Consultancy Services, with 3.3 years of working experience in Banking and Finance domain. 
+* Skilled in Java / Python / Machine Learning / Statistics / Data Analysis.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/priyeshdave21//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/priyeshdave21//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PriyeshDave6)  
