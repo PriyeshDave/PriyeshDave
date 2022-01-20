@@ -11,7 +11,8 @@
 - 💬 Ask me about Anything 
 - 📫 How to reach me: priyeshdave90@gmail.com 
 - 😄 Pronouns: He / Him 
-<br>
+
+
 ## Skills and Experience
 * Experienced and dedicated Systems Engineer at Tata Consultancy Services, with 3.3 years of working experience in Banking and Finance domain. 
 * Skilled in Java / Python / Machine Learning / Statistics / Data Analysis.
