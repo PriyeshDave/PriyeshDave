@@ -13,8 +13,8 @@
 
 
 ## Skills and Experience
-* Experienced and dedicated Systems Engineer at Tata Consultancy Services, with 3.3 years of working experience in Banking and Finance domain. 
-* Skilled in Java / Python / Machine Learning / Statistics / Data Analysis / PostgreSQL.
+* Data science professional with 3.8 years of experience around Machine Learning, Natural Language Processing, Deep Learning, predictive modeling, and statistical    analysis. Passionate about leveraging data science and ML to build products & services which help solve real-world business problems.
+* Skilled in Java / Python / Machine Learning / Statistics / Data Analysis / PostgreSQL/ NLP.
 
 
 
