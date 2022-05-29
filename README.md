@@ -13,6 +13,18 @@
 
 
 ## Skills and Experience
+![Python](https://img.shields.io/badge/Language-python3.9-blue)
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-grey)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-yellow)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+
+
+![Frontend](https://img.shields.io/badge/Framework-Streamlit-red)
+![Deployment](https://img.shields.io/badge/Cloud-Heroku-purple)
+
 * Data science professional with 3.8 years of experience around Machine Learning, Natural Language Processing, Deep Learning, predictive modeling, and statistical    analysis. Passionate about leveraging data science and ML to build products & services which help solve real-world business problems.
 * Skilled in Java / Python / Machine Learning / Statistics / Data Analysis / PostgreSQL/ NLP.
 
