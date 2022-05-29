@@ -11,6 +11,8 @@
 - 📫 How to reach me: priyeshdave90@gmail.com 
 - 😄 Pronouns: He / Him 
 
+> https://linktr.ee/priyeshdave21
+
 
 ## Skills and Experience
 ![Python](https://img.shields.io/badge/Language-python3.9-blue)
