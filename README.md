@@ -19,7 +19,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-grey)
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-yellow)
 ![Statistics](https://img.shields.io/badge/Statistics-informational)
-![Linear Algebra](https://img.shields.io/badge/Linear-Algebra-success)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-success)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 
