@@ -13,7 +13,8 @@
 
 
 ## Skills and Experience
-![Languages](https://img.shields.io/badge/Languages-python3.9-java-blue)
+![Python](https://img.shields.io/badge/Language-python3.9-blue)
+![Java](https://img.shields.io/badge/Language-Java-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-grey)
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-yellow)
