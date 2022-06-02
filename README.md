@@ -3,13 +3,21 @@
 <h1 align="center">Hi there 👋, I'm Priyesh Dave!</h1>
 
 <h3 align = "center" > I am Priyesh from India, a Data Science Enthusiast. I really enjoy learning new languages and having a clear understanding of Machine Learning and Statistics and training in Programming. Motivated to learn, grow and excel in Artificial Intelligence Industry.</h3>
-<br>
+
+
+- 🔭 I’m currently working on [Google AI4Code](https://www.kaggle.com/competitions/AI4Code)
 
 - 🌱 I’m currently learning **Natural Language Processing**
-- 👯 I’m looking to collaborate on **AI/ML Projects**
-- 💬 Ask me about Anything 
-- 📫 How to reach me: priyeshdave90@gmail.com 
-- 😄 Pronouns: He / Him 
+
+- 👯 I’m looking to collaborate on **AL/ML Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/PriyeshDave/](https://github.com/PriyeshDave/)
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **priyeshdave90@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/priyeshdave21/](https://www.linkedin.com/in/priyeshdave21/)
 
 > https://linktr.ee/priyeshdave21
 
