@@ -5,7 +5,7 @@
 <h3 align = "center" > I am Priyesh from India, a Data Science Enthusiast. I really enjoy learning new languages and having a clear understanding of Machine Learning and Statistics and training in Programming. Motivated to learn, grow and excel in Artificial Intelligence Industry.</h3>
 <br>
 
-  [![HitCount](https://hits.dwyl.com/PriyeshDave/PriyeshDave.svg?style=flat-square)](http://hits.dwyl.com/PriyeshDave/PriyeshDave)
+  [![HitCount](https://hits.dwyl.com/PriyeshDave/PriyeshDave.svg?style=flat)](http://hits.dwyl.com/PriyeshDave/PriyeshDave)
 
 
 - 🌱 I’m currently learning **Machine Learning**
