@@ -12,7 +12,7 @@
 - 📫 How to reach me **priyeshdave90@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/priyeshdave21/](https://www.linkedin.com/in/priyeshdave21/)
 
-> https://linktr.ee/priyeshdave21
+
 
 ## Skills and Experience
 ![Python](https://img.shields.io/badge/Language-python3.9-blue)
@@ -34,6 +34,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linktr.ee/priyeshdave21" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="PriyeshDave" height="30" width="40" /></a>
 <a href="https://twitter.com/priyeshdave6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyeshdave6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyeshdave21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyeshdave21" height="30" width="40" /></a>
 <a href="https://kaggle.com/priyeshdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyeshdave" height="30" width="40" /></a>
