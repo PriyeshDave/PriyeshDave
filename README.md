@@ -6,17 +6,10 @@
 
 
 - 🔭 I’m currently working on [Google AI4Code](https://www.kaggle.com/competitions/AI4Code)
-
-- 🌱 I’m currently learning **Natural Language Processing**
-
-- 👯 I’m looking to collaborate on **AL/ML Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/PriyeshDave/](https://github.com/PriyeshDave/)
-
+- 🌱 I’m currently learning and experimenting on **Amazon Web Services**.
+- 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
 - 💬 Ask me about **Anything**
-
 - 📫 How to reach me **priyeshdave90@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/priyeshdave21/](https://www.linkedin.com/in/priyeshdave21/)
 
 > https://linktr.ee/priyeshdave21
