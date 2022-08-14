@@ -22,7 +22,7 @@
 - Recognized and appreciated for delivering efficient solutions and awarded by **Performing Award** by **Westpac**.
 - Selected in top 300 among 15,000 applicants for **Bertelsmann Technology UDACITY MACHINE LEARNING SCHOLARSHIP** across
 world,and learnt Machine Learning.
-
+- Selected as an apprentice in the **Google Developers Machine Learning Bootcamp India.**
 ## Skills 🎓
 ![Python](https://img.shields.io/badge/Language-python3.9-blue)
 ![Java](https://img.shields.io/badge/Language-Java-blue)
