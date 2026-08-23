@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2F80ED,100:56CCF2&height=200&section=header&text=Priyesh%20Dave&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20AI%20Engineer%20%40%20American%20Express&descAlignY=55&descSize=18" alt="Banner" width="100%"/>
 
-<img src="https://github.com/PriyeshDave/PriyeshDave/blob/main/1639460581637.jpg" width="150" style="border-radius: 50%;" alt="Priyesh Dave"/>
-
 # Hi, I'm Priyesh Dave 👋
 
 **3x Patent Inventor | Lead AI Engineer at American Express | Tech Speaker | Enterprise AI & GenAI Systems | AgenticAI | Google Cloud Certified – Professional MLE | TensorFlow Certified Developer | AI/MLOps**
