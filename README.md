@@ -105,19 +105,6 @@ Senior AI Engineer with **7+ years of experience** building production-grade **A
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyeshdave&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Priyesh's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshdave&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyeshdave&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -136,8 +123,6 @@ Senior AI Engineer with **7+ years of experience** building production-grade **A
 📧 **priyeshdave21.ai@gmail.com**  &nbsp;|&nbsp; 📞 **+91-8889181232**
 
 <br/>
-
-<img src="https://profile-counter.glitch.me/priyeshdave/count.svg" alt="Profile Views" />
 
 </div>
 
