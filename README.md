@@ -1,22 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2F80ED,100:56CCF2&height=200&section=header&text=Priyesh%20Dave&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20AI%20Engineer%20%40%20American%20Express&descAlignY=55&descSize=18" alt="Banner" width="100%"/>
-
-# Hi, I'm Priyesh Dave 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2F80ED,100:56CCF2&height=250&section=header&text=Hi,%20I'm%20Priyesh%20Dave%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Lead%20AI%20Engineer%20%40%20American%20Express&descAlignY=52&descSize=18" alt="Banner" width="100%"/>
 
 **3x Patent Inventor | Lead AI Engineer at American Express | Tech Speaker | Enterprise AI & GenAI Systems | AgenticAI | Google Cloud Certified – Professional MLE | TensorFlow Certified Developer | AI/MLOps**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Building+Production-Grade+AI+%26+GenAI+Systems;Designing+Agentic+Workflows+at+Enterprise+Scale;Co-authoring+%22AI+in+Supply+Chain%22+for+Apress;Google+Cloud+ML+Engineer+%7C+TensorFlow+Certified" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyeshdave21-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyeshdave21/)
-[![Twitter](https://img.shields.io/badge/Twitter-priyeshdave6-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/priyeshdave6)
-[![Medium](https://img.shields.io/badge/Medium-priyeshdave90-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@priyeshdave90)
-[![Dev.to](https://img.shields.io/badge/Dev.to-priyeshdave6-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/priyeshdave6)
-[![Kaggle](https://img.shields.io/badge/Kaggle-priyeshdave-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/priyeshdave)
-[![Gmail](https://img.shields.io/badge/Email-priyeshdave21.ai%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:priyeshdave21.ai@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-%2B91--8889181232-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+918889181232)
-
-![Profile Views](https://komarev.com/ghpvc/?username=priyeshdave&label=Profile%20Views&color=2F80ED&style=flat)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+%26+GenAI+Systems;Designing+Agentic+Workflows+at+Enterprise+Scale;Co-authoring+%22AI+in+Supply+Chain%22+for+Apress;Google+Cloud+ML+Engineer+%7C+TensorFlow+Certified" alt="Typing SVG" />
 
 </div>
 
@@ -39,13 +27,11 @@ Senior AI Engineer with **7+ years of experience** building production-grade **A
 
 ## 💼 Experience
 
-| Role | Organization | Focus |
-|---|---|---|
-| 🏆 **Lead AI Engineer** | [American Express](https://www.americanexpress.com/) | Enterprise GenAI, agentic workflows, colleague-servicing AI at scale |
-| 📊 **Data Scientist** | [Tata Consultancy Services](https://www.tcs.com/) | ML models for Westpac Bank & core banking software |
-| 🤝 **Machine Learning Engineer** | [Omdena](https://www.omdena.com/) | Open-source, collaborative AI for real-world problems |
-| 🎓 **Data Science Fellow** | [The Machine Learning Company](https://www.themlco.com/) | Classic ML, Deep Learning, NLP & Computer Vision projects |
-| 📈 **Data Science & Business Analyst** | [The Sparks Foundation](https://internship.thesparksfoundation.info/) | Data science & business analytics internship |
+| Role | Organization | Timeline | Focus |
+|---|---|---|---|
+| **Lead AI Engineer** | [American Express](https://www.americanexpress.com/) | 2022 – Present | Enterprise GenAI, agentic workflows, colleague-servicing AI at scale |
+| **Data Scientist** | [Tata Consultancy Services](https://www.tcs.com/) | 2018 – 2022 | ML models for Westpac Bank & core banking software |
+| **Machine Learning Engineer** | [Omdena](https://www.omdena.com/) | 2022 – Present (Open Source) | Open-source, collaborative AI for real-world problems |
 
 ---
 
@@ -53,10 +39,10 @@ Senior AI Engineer with **7+ years of experience** building production-grade **A
 
 | | |
 |---|---|
-| 🏆 | **Performing Award**, Westpac — recognized for delivering efficient enterprise solutions |
-| 📜 | **Multiple US Patents** approved for filing |
-| ☁️ | **Google Cloud Certified** — Professional Machine Learning Engineer |
-| 🧠 | **TensorFlow Certified Developer** |
+| 🏆 | **Centurion Award** — American Express's most prestigious recognition, awarded for exceptional impact |
+| 💡 | **Inventor Award**, American Express — recognized for patents approved for US filing |
+| 🎯 | **DW Award**, American Express — for delivering high-impact AI use cases and solutions |
+| 🏅 | **Performing Award**, Westpac (via TCS) — for delivering efficient enterprise solutions |
 
 ---
 
@@ -66,69 +52,55 @@ Senior AI Engineer with **7+ years of experience** building production-grade **A
 
 <table>
 <tr>
-<td align="center" width="220">
-<img src="https://img.icons8.com/color/96/google-cloud.png" width="55"/><br/>
+<td align="center" width="300">
+<img src="https://img.icons8.com/color/96/google-cloud.png" width="55"/><br/><br/>
 <b>Professional ML Engineer</b><br/>
 <sub>Google Cloud</sub>
 </td>
-<td align="center" width="220">
-<img src="https://img.icons8.com/color/96/tensorflow.png" width="55"/><br/>
+<td align="center" width="300">
+<img src="https://img.icons8.com/color/96/tensorflow.png" width="55"/><br/><br/>
 <b>TensorFlow Certified Developer</b><br/>
 <sub>Google / TensorFlow</sub>
 </td>
-<td align="center" width="220">
-<img src="https://img.icons8.com/fluency/96/certificate.png" width="55"/><br/>
-<b>ML Bootcamp Apprentice</b><br/>
-<sub>Google Developers India</sub>
-</td>
 </tr>
 </table>
-
-![Google Cloud ML Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![TensorFlow Developer](https://img.shields.io/badge/TensorFlow-Certified%20Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Patents](https://img.shields.io/badge/US%20Patents-3x%20Inventor-6E56CF?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/AI%2FMLOps-Practitioner-0091EA?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Technical Skills
 
-**Languages & Core**
+**Generative AI & Agentic Systems**
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6E56CF?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6E56CF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
+
+**Machine Learning & NLP**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-2F80ED?style=for-the-badge)
+
+**MLOps, Cloud & Deployment**
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLOps](https://img.shields.io/badge/AI%2FMLOps-0091EA?style=for-the-badge)
+
+**Backend & Systems**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML / GenAI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-yellow?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6E56CF?style=for-the-badge)
-
-**Cloud & MLOps**
-
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0091EA?style=for-the-badge)
-
-**Backend & Deployment**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -162,6 +134,10 @@ Senior AI Engineer with **7+ years of experience** building production-grade **A
 <br/>
 
 📧 **priyeshdave21.ai@gmail.com**  &nbsp;|&nbsp; 📞 **+91-8889181232**
+
+<br/>
+
+<img src="https://profile-counter.glitch.me/priyeshdave/count.svg" alt="Profile Views" />
 
 </div>
 
