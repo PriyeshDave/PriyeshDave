@@ -124,6 +124,8 @@ Senior AI Engineer with **7+ years of experience** building production-grade **A
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=priyeshdave&label=Profile%20Views&color=2F80ED&style=flat-square)
+
 </div>
 
 <div align="center">
